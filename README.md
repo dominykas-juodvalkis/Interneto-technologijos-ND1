@@ -1,7 +1,7 @@
 # ND1 projektas
 
 Nuoroda į projektą: [ND1 projektas]
-() github
+(https://github.com/dominykas-juodvalkis/Interneto-technologijos-ND1) github
 
 # Projekto tema
 Dirbtinio intelekto naudojimas išmaniuosiuose namuose
@@ -22,5 +22,6 @@ Atidaryti index.html naršyklėje.
 # Autorius
 
 [Dominykas Juodvalkis] (https://github.com/dominykas-juodvalkis)
+
 
 Dominykas : [Github](https://github.com/dominykas-juodvalkis)
